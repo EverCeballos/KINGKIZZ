@@ -1,0 +1,62 @@
+[
+    {
+        "pregunta": "¿Quién es el primer atleta en la historia de los Juegos Olímpicos en ganar una medalla en cinco ediciones diferentes?",
+        "opciones": {
+            "a": "Michael Phelps",
+            "b": "Carl Lewis",
+            "c": "Larisa Latynina",
+            "d": "Nadia Comăneci"
+        },
+        "respuesta_correcta": "b"
+    },
+    {
+        "pregunta": "¿Qué selección nacional ganó el Mundial de Fútbol de 1998 en Francia?",
+        "opciones": {
+            "a": "Brasil",
+            "b": "Argentina",
+            "c": "Francia",
+            "d": "Italia"
+        },
+        "respuesta_correcta": "c"
+    },
+    {
+        "pregunta": "¿En qué año ganó Usain Bolt su primer oro olímpico en los 100 metros?",
+        "opciones": {
+            "a": "2004",
+            "b": "2008",
+            "c": "2012",
+            "d": "2016"
+        },
+        "respuesta_correcta": "b"
+    },
+    {
+        "pregunta": "¿Cuál es el deporte más popular en Nueva Zelanda?",
+        "opciones": {
+            "a": "Rugby",
+            "b": "Fútbol",
+            "c": "Cricket",
+            "d": "Atletismo"
+        },
+        "respuesta_correcta": "a"
+    },
+    {
+        "pregunta": "¿Quién fue el primer tenista en ganar 20 títulos de Grand Slam en la historia?",
+        "opciones": {
+            "a": "Rafael Nadal",
+            "b": "Novak Djokovic",
+            "c": "Pete Sampras",
+            "d": "Roger Federer"
+        },
+        "respuesta_correcta": "d"
+    },
+    {
+        "pregunta": "¿En qué deporte se distingue el 'Gran Slam'?",
+        "opciones": {
+            "a": "Tenis",
+            "b": "Golf",
+            "c": "Automovilismo",
+            "d": "Boxeo"
+        },
+        "respuesta_correcta": "a"
+    }
+]

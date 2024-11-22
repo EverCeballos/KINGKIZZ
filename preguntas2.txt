@@ -1,0 +1,62 @@
+[
+    {
+        "pregunta": "¿Cuál es la parte más externa del ojo humano?",
+        "opciones": {
+            "a": "La pupila",
+            "b": "La córnea",
+            "c": "El iris",
+            "d": "La retina"
+        },
+        "respuesta_correcta": "b"
+    },
+    {
+        "pregunta": "¿Qué tratado puso fin a la Guerra de los Cien Años entre Inglaterra y Francia?",
+        "opciones": {
+            "a": "Tratado de Versalles",
+            "b": "Tratado de Picquingy",
+            "c": "Tratado de Troyes",
+            "d": "Tratado de París"
+        },
+        "respuesta_correcta": "b"
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes animales mitológicos pertenece a la cultura griega?",
+        "opciones": {
+            "a": "Escila",
+            "b": "Garuda",
+            "c": "Anzu",
+            "d": "Grifo"
+        },
+        "respuesta_correcta": "d"
+    },
+    {
+        "pregunta": "¿Qué país es conocido como la 'Tierra del Fuego'?",
+        "opciones": {
+            "a": "Argentina",
+            "b": "Chile",
+            "c": "Nueva Zelanda",
+            "d": "Islandia"
+        },
+        "respuesta_correcta": "a"
+    },
+    {
+        "pregunta": "¿En qué país se encuentra el desierto de Atacama, el más árido del mundo?",
+        "opciones": {
+            "a": "Perú",
+            "b": "Chile",
+            "c": "Argentina",
+            "d": "Bolivia"
+        },
+        "respuesta_correcta": "b"
+    },
+    {
+        "pregunta": "¿Qué monumento histórico es considerado una de las nuevas siete maravillas del mundo moderno?",
+        "opciones": {
+            "a": "La Gran Muralla China",
+            "b": "Machu Picchu",
+            "c": "La Torre Eiffel",
+            "d": "El Coliseo Romano"
+        },
+        "respuesta_correcta": "b"
+    }
+]

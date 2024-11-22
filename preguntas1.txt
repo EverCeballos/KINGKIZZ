@@ -1,0 +1,62 @@
+[
+    {
+        "pregunta": "¿Quién fue el compositor de la famosa obra 'Sinfonía del Nuevo Mundo'?",
+        "opciones": {
+            "a": "Ludwig van Beethoven",
+            "b": "Johannes Brahms",
+            "c": "Antonín Dvořák",
+            "d": "Franz Schubert"
+        },
+        "respuesta_correcta": "c"
+    },
+    {
+        "pregunta": "¿En qué año se fundó la banda británica 'The Beatles'?",
+        "opciones": {
+            "a": "1959",
+            "b": "1960",
+            "c": "1962",
+            "d": "1965"
+        },
+        "respuesta_correcta": "b"
+    },
+    {
+        "pregunta": "¿Qué cantante popularizó el tema 'Like a Virgin' en 1984?",
+        "opciones": {
+            "a": "Britney Spears",
+            "b": "Madonna",
+            "c": "Cyndi Lauper",
+            "d": "Janet Jackson"
+        },
+        "respuesta_correcta": "b"
+    },
+    {
+        "pregunta": "¿Qué banda lanzó el álbum 'The Dark Side of the Moon' en 1973?",
+        "opciones": {
+            "a": "Pink Floyd",
+            "b": "Queen",
+            "c": "Led Zeppelin",
+            "d": "The Rolling Stones"
+        },
+        "respuesta_correcta": "a"
+    },
+    {
+        "pregunta": "¿Qué grupo británico popularizó la canción 'Stairway to Heaven' en 1971?",
+        "opciones": {
+            "a": "The Beatles",
+            "b": "Pink Floyd",
+            "c": "Led Zeppelin",
+            "d": "The Rolling Stones"
+        },
+        "respuesta_correcta": "c"
+    },
+    {
+        "pregunta": "¿En qué país nació la cantante Shakira?",
+        "opciones": {
+            "a": "México",
+            "b": "Colombia",
+            "c": "Argentina",
+            "d": "Venezuela"
+        },
+        "respuesta_correcta": "b"
+    }
+]

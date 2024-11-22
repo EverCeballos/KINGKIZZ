@@ -1,0 +1,62 @@
+[
+    {
+        "pregunta": "¿Qué juego de 1993 es considerado el primer 'first-person shooter' (FPS) moderno y tuvo gran influencia en el género?",
+        "opciones": {
+            "a": "Wolfenstein 3D",
+            "b": "Doom",
+            "c": "Quake",
+            "d": "GoldenEye 007"
+        },
+        "respuesta_correcta": "a"
+    },
+    {
+        "pregunta": "¿Cuál es el protagonista del videojuego 'The Legend of Zelda'?",
+        "opciones": {
+            "a": "Mario",
+            "b": "Link",
+            "c": "Samus",
+            "d": "Kirby"
+        },
+        "respuesta_correcta": "b"
+    },
+    {
+        "pregunta": "¿En qué videojuego aparece el personaje 'Master Chief'?",
+        "opciones": {
+            "a": "Gears of War",
+            "b": "Halo",
+            "c": "Call of Duty",
+            "d": "Fortnite"
+        },
+        "respuesta_correcta": "b"
+    },
+    {
+        "pregunta": "¿Cuál de estos videojuegos fue desarrollado por la empresa japonesa Nintendo?",
+        "opciones": {
+            "a": "Sonic the Hedgehog",
+            "b": "Final Fantasy",
+            "c": "Super Mario Bros",
+            "d": "Street Fighter"
+        },
+        "respuesta_correcta": "c"
+    },
+    {
+        "pregunta": "¿Qué juego fue el primer 'battle royale' popular que inspiró muchos otros títulos similares?",
+        "opciones": {
+            "a": "Apex Legends",
+            "b": "Fortnite",
+            "c": "PUBG",
+            "d": "Warzone"
+        },
+        "respuesta_correcta": "c"
+    },
+    {
+        "pregunta": "¿Cuál de estos videojuegos fue un éxito en 1997 y fue conocido por su enfoque en la simulación de vida virtual?",
+        "opciones": {
+            "a": "SimCity",
+            "b": "The Sims",
+            "c": "RollerCoaster Tycoon",
+            "d": "Age of Empires"
+        },
+        "respuesta_correcta": "b"
+    }
+]

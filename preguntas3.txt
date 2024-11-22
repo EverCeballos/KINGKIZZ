@@ -1,0 +1,62 @@
+[
+    {
+        "pregunta": "¿En qué película de 1999 se basó el videojuego 'The Matrix' para su universo visual y de narrativa?",
+        "opciones": {
+            "a": "Inception",
+            "b": "Blade Runner",
+            "c": "Dark City",
+            "d": "The Thirteenth Floor"
+        },
+        "respuesta_correcta": "d"
+    },
+    {
+        "pregunta": "¿Cuál fue el primer largometraje de animación de Disney?",
+        "opciones": {
+            "a": "Blanca Nieves y los Siete Enanitos",
+            "b": "Pinocho",
+            "c": "Dumbo",
+            "d": "Fantasía"
+        },
+        "respuesta_correcta": "a"
+    },
+    {
+        "pregunta": "¿Qué actor interpretó a 'Forrest Gump'?",
+        "opciones": {
+            "a": "Johnny Depp",
+            "b": "Tom Hanks",
+            "c": "Brad Pitt",
+            "d": "Leonardo DiCaprio"
+        },
+        "respuesta_correcta": "b"
+    },
+    {
+        "pregunta": "¿En qué año se estrenó la película 'Titanic' de James Cameron?",
+        "opciones": {
+            "a": "1995",
+            "b": "1997",
+            "c": "1999",
+            "d": "2000"
+        },
+        "respuesta_correcta": "b"
+    },
+    {
+        "pregunta": "¿Qué película dirigida por Quentin Tarantino ganó la Palma de Oro en Cannes en 1994?",
+        "opciones": {
+            "a": "Kill Bill",
+            "b": "Pulp Fiction",
+            "c": "Reservoir Dogs",
+            "d": "Django sin cadenas"
+        },
+        "respuesta_correcta": "b"
+    },
+    {
+        "pregunta": "¿Qué actor fue nominado por primera vez al Oscar por su papel en la película 'The Revenant' (2015)?",
+        "opciones": {
+            "a": "Matthew McConaughey",
+            "b": "Leonardo DiCaprio",
+            "c": "Tom Hardy",
+            "d": "Brad Pitt"
+        },
+        "respuesta_correcta": "b"
+    }
+]

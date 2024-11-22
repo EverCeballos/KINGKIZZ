@@ -1,0 +1,62 @@
+[
+    {
+        "pregunta": "¿Cuál fue la principal causa de la Guerra de los Siete Años (1756-1763)?",
+        "opciones": {
+            "a": "La expansión territorial de Rusia",
+            "b": "La rivalidad colonial entre Francia y Gran Bretaña",
+            "c": "La lucha por la supremacía naval entre España y Portugal",
+            "d": "La Revolución Industrial"
+        },
+        "respuesta_correcta": "b"
+    },
+    {
+        "pregunta": "¿Qué imperio cayó en 1453 tras la caída de Constantinopla?",
+        "opciones": {
+            "a": "Imperio Romano",
+            "b": "Imperio Bizantino",
+            "c": "Imperio Mongol",
+            "d": "Imperio Otomano"
+        },
+        "respuesta_correcta": "b"
+    },
+    {
+        "pregunta": "¿En qué año se firmó la Declaración de Independencia de los Estados Unidos?",
+        "opciones": {
+            "a": "1776",
+            "b": "1783",
+            "c": "1791",
+            "d": "1800"
+        },
+        "respuesta_correcta": "a"
+    },
+    {
+        "pregunta": "¿Quién fue el líder del Imperio Mongol que estableció el mayor imperio contiguo de la historia?",
+        "opciones": {
+            "a": "Alejandro Magno",
+            "b": "Gengis Kan",
+            "c": "Kublai Kan",
+            "d": "Timur"
+        },
+        "respuesta_correcta": "b"
+    },
+    {
+        "pregunta": "¿Qué evento histórico ocurrió el 14 de julio de 1789 en Francia?",
+        "opciones": {
+            "a": "La Batalla de Waterloo",
+            "b": "La toma de la Bastilla",
+            "c": "El fin del reinado de Luis XVI",
+            "d": "La firma de la Paz de Versalles"
+        },
+        "respuesta_correcta": "b"
+    },
+    {
+        "pregunta": "¿Quién fue el último emperador del Imperio Romano de Occidente?",
+        "opciones": {
+            "a": "Julio César",
+            "b": "Diocleciano",
+            "c": "Rómulo Augústulo",
+            "d": "Teodosio I"
+        },
+        "respuesta_correcta": "c"
+    }
+]
